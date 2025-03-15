@@ -43,6 +43,11 @@ This project captures labeled facial images using Google Colab, stores them in G
 - **TensorFlow/Keras**: Image preprocessing.
 - **Scikit-learn**: Dataset splitting.
 
+## Screenshots
+# Dataset
+![image](https://github.com/user-attachments/assets/4a468cd8-e2d3-44e2-9568-d12bcb97299b)
+
+
 ## Future Enhancements
 - Implement real-time face detection for auto-cropping.
 - Integrate face recognition models for classification.
